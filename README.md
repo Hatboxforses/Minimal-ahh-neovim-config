@@ -2,8 +2,8 @@
 
 # Install
 
-[Run Terminal As Admin(If on Windows) Then Open PowerShell(If not default)]
-$XDG_CONFIG_HOME = 'C:\Users\jadad\AppData\Local' (run this if you are using Windows)
+[Run Terminal As Admin(If on Windows) Then Open PowerShell(If not default)]                                                  
+$XDG_CONFIG_HOME = 'C:\Users\jadad\AppData\Local' (run this if you are using Windows)                                                  
 git clone https://github.com/Hatboxforses/Minimal-ahh-neovim-config.git $XDG_CONFIG_HOME/nvim
 
 # Screenie
