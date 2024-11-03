@@ -12,4 +12,4 @@ git clone https://github.com/Hatboxforses/Minimal-ahh-neovim-config.git $XDG_CON
 
 # !!!
 
-https://github.com/catppuccin/windows-terminal(I used this in the screenshot the flavor was macchiato)
+https://github.com/catppuccin/windows-terminal (I used this in the screenshot the flavor was macchiato)
