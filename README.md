@@ -1,3 +1,7 @@
+# !!!
+
+This hasn't been updated & the code is so shit it never will, I might recreate this but don't know if I will considering NvChad(https://nvchad.com/) exists
+
 # Minimal-ahh-neovim-config-💀
 
 # Install
